@@ -7,18 +7,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faraneda&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="faraneda's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=faraneda&theme=nightowl&hide_border=true&cache_seconds=86400" alt="faraneda's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraneda&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faraneda&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="FELIPE ANDRÉS ARANEDA ARIAS's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=faraneda&theme=nightowl&radius=10" alt="faraneda's Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=faraneda&theme=nightowl&hide_border=true&cache_seconds=86400" alt="faraneda's GitHub Streak" />
 </p>
 
 ## 🛠️ Lenguajes y Herramientas
@@ -50,3 +39,4 @@
 <div align="center">
   <!---->
 </div>
+
